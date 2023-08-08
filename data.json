@@ -4,30 +4,35 @@
       "Empcode": "ABCD1",
       "Empname": "Maja Festus",
       "Mail": "majafestus@gmail.com",
-      "Phone": "7540033122"
+      "Phone": "7540033122",
+      "EmpStatus":1
     },
     {
       "Empcode": "ABCD2",
       "Empname": "Ayn Viliame",
       "Mail": "aynviliame@gmail.com",
-      "Phone": "5018718327"
+      "Phone": "5018718327",
+      "EmpStatus":1
     },
     {
       "Empcode": "ABCD3",
       "Empname": "Twirlflower Hermanus",
       "Mail": "twirlflower@gmail.com",
-      "Phone": "2415586183"
+      "Phone": "2415586183",
+      "EmpStatus":1
     },
     {
       "Empcode": "ABCD4",
       "Empname": "Damir Filippus",
       "Mail": "damirfilippus@gmail.com",
-      "Phone": "5583347176"
+      "Phone": "5583347176",
+      "EmpStatus":0
     },
     {
       "Empcode": "ABCD5",
       "Empname": "Sheona Ilmarinen",
       "Mail": " sheonailmarinen@gmail.com",
-      "Phone": "1412474063"
+      "Phone": "1412474063",
+      "EmpStatus":0
     }
   ]
